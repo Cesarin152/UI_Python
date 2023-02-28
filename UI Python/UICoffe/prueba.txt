@@ -1,0 +1,8 @@
+Café Claro del Día Pequeño 1.00$ (0)
+Café Claro del Día Mediano 1.50$ (1)
+Café Claro del Día Grande 3.00$ (2)
+Latte, Cappuccino, Mezcla de Café Pequeño 2.50$ (3)
+Latte, Cappuccino, Mezcla de Café Mediano 3.50$ (4)
+Latte, Cappuccino, Mezcla de Café Grande 4.00$ (5)
+_________________________________
+Total: 15.5

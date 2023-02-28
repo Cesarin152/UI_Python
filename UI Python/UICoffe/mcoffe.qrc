@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="mcoff">
+    <file>bebida.png</file>
+    <file>coffe1.png</file>
+    <file>panaderia.jpg</file>
+  </qresource>
+</RCC>
